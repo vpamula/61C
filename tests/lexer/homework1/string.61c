@@ -1,2 +1,2 @@
-char str1 = '"sdf"';
+char* str1 = 'tiweiw\"fdsfds';
 \n
